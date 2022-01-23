@@ -1,0 +1,23 @@
+6.00-7 ---Tea/Yoga
+
+7-9---Cardio/Gym
+
+9-10---Bath/BF/Paper/Mails/Online Office
+
+10-1.30---Office //Azure/AWS
+
+1.30-2.30---Lunch
+
+2.30-4.30---Office//Angular/react with .NET
+
+4.30-7.00---Office//Bigdata/Drone/Blockchain/AI/ML/AR/VR
+
+7-8.30 ---Gym/Yoga/Swimming/Cardio
+
+8.00-9.30---TT
+
+9.30-10.00--Dinner
+10-11- TV/Paper/Plan/Piano/stock/books
+
+11-6.00--sleep
+
